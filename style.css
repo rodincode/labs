@@ -50,3 +50,18 @@ left:550px;
 margin-bottom:10px;
 border:1px #ccc solid;
 }
+
+.box{
+  position:relative;
+  width:100px;
+  height:100px;
+  margin:4px;
+  display:inline-block;
+}
+
+.red{background-color:red}
+.green{background-color:green}
+.blue{background-color:blue}
+.yellow{background-color:yellow}
+
+
