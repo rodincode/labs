@@ -1,0 +1,52 @@
+nav ul {
+  list-style-type:none;
+}
+
+nav ul li {
+  float: left;
+  margin-right: 0.5em;
+  font-family: fantasy;
+  font-size:24px;
+  text-align:center;
+  color: white;
+}
+
+nav ul li a:hover, nav ul li a:focus {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+}
+
+body{
+margin:o;
+font: normal 16px Arial, Helvetica, sand-serif;
+color:#333;
+}
+
+h1{text-align:center;
+ background-color:darkcyan;
+font-size:50px;
+font-family: Helvetica, Arial, sans-serif; }
+
+
+#particles-js{
+background:firebrick;
+height:100%;
+}
+
+
+#login{
+background:#fff;
+opacity:0.9;
+padding:2em;
+border:#ccc 2px solid;
+position:absolute;
+top:200px;
+left:550px;
+}
+
+#login input[type="text"], #login input[type="password"]
+{padding:7px;
+margin-bottom:10px;
+border:1px #ccc solid;
+}
